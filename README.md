@@ -8,6 +8,7 @@ THIS IS EDUCATIONAL CODE!!!! Not production ready code... only intended for lear
 
 
 Steps to make this Sample run: 
+
 0) Create AWS account :-) 
 1) Setup a Cognito User pool
 2) Edit AWSEnviromentVariables.cs. Update with you AWS setup keys.
