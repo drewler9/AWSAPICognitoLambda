@@ -14,7 +14,16 @@ Steps to make this Sample run:
 2) Edit AWSEnviromentVariables.cs. Update with you AWS setup keys.
 3) Build solution
 4) Deploy
-5) Configure Cognito Authentizator for Api gateway to point to your Cognito user pool.
+5) Configure Cognito Authentizator for Api gateway to point to your Cognito user pool.(Haven't yet figured out json/Yaml for Authentizator)
 6) Add Cognito authorization to the endpoints 
+
+
+
+Then test application: 
+
+0) run unit test: TotalTest.FullTest
+
+
+
 
 
